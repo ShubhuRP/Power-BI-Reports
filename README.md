@@ -86,9 +86,6 @@ Enterprise Chart of Accounts (COA) Dashboard for Finance & Controlling teams. Bu
 | File | Description |
 | :--- | :--- |
 | `Finance_COA_Dashboard.pbix` | Power BI file |
-| `GL_Transactions.csv` | Fact table data |
-| `GL_Account_Master.csv` | Account dimension |
-| `CostCenter_Master.csv` | Cost center dimension |
-| `Subsidiary_Master.csv` | Subsidiary dimension |
+| `Data_Export.sql` | table data |
 
 ---
