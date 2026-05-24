@@ -72,3 +72,23 @@ Enterprise Chart of Accounts (COA) Dashboard for Finance & Controlling teams. Bu
 ## Row-Level Security (RLS)
 
 **Role:** Cost Center Manager
+
+**Test Users:**
+| Email | Sees |
+| :--- | :--- |
+| k.schmidt@company.com | CC-1001 only |
+| a.becker@company.com | All cost centers |
+
+---
+
+## Files in This Repository
+
+| File | Description |
+| :--- | :--- |
+| `Finance_COA_Dashboard.pbix` | Power BI file |
+| `GL_Transactions.csv` | Fact table data |
+| `GL_Account_Master.csv` | Account dimension |
+| `CostCenter_Master.csv` | Cost center dimension |
+| `Subsidiary_Master.csv` | Subsidiary dimension |
+
+---
